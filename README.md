@@ -1,5 +1,5 @@
 # StyLow — Fashion E-Commerce Platform
-
+![StyLow Admin Interface](stylo-ui.png)
 StyLow is a fashion e-commerce platform designed to make fashion discovery and product management simple, intuitive, and accessible through a modern digital experience.
 
 The platform provides a user-facing shopping experience alongside an administrative interface for managing the product catalog.
